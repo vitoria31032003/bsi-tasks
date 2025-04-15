@@ -4,12 +4,6 @@
 **GitHub:** @vitoria31032003  
 **E-mail:** vitoria.assis.067@ufrn.edu.br
 
-# Tarefa 01 - Conceitos BD e MER
-
-**Nome:** Vitória Geovanna  
-**GitHub:** @vitoria31032003  
-**E-mail:** vitoria.assis.067@ufrn.edu.br
-
 a) Descreva o que é um Banco de Dados e o que é um Sistema Gerenciador de Banco de Dados. Cite exemplos de Bancos de Dados e seus SGBDs.
 Um banco de dados pode ser classificado como um conjunto de dados estruturados, com um objetivo de ajudar um usuário no momento de pesquisa por algum dado. 
 
