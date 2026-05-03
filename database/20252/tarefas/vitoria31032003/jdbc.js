@@ -4,7 +4,7 @@ const pool = new Pool({
   user: 'user',
   password: '1234',
   database: 'atividadesbd',
-  host: '127.0.0.1', // evita conflito com localhost
+  host: '127.0.0.1', 
   port: 5433,
 });
 
@@ -41,7 +41,7 @@ async function executar() {
   const jdbc = new JDBC();
 
   try {
-    console.log("✅ Conectando via JDBC...");
+    console.log(" Conectando via JDBC...");
 
     await jdbc.inserirAtividade("Atividade JDBC", 1);
     await jdbc.atualizarLider(1, "Lider JDBC");
@@ -51,10 +51,10 @@ async function executar() {
     console.log(dados);
 
   } catch (err) {
-    console.error("❌ Erro:", err.message);
+    console.error(" Erro:", err.message);
   } finally {
     await pool.end();
-    console.log("🔌 Conexão encerrada");
+    console.log(" Conexão encerrada");
   }
 }
 
