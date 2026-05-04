@@ -3,7 +3,6 @@ import odbc from 'odbc';
 async function executar(): Promise<void> {
   let connection: any;
 
-
   try {
     console.log("Conectando via ODBC...");
 
