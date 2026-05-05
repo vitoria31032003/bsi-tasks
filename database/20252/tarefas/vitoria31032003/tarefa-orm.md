@@ -6,7 +6,7 @@ Atividade de acesso a banco de dados em **TypeScript**, usando três métodos co
 
 Toda a infraestrutura (PgAdmin e aplicação TypeScript) sob via Docker Compose.
 
-# Estrutura do projeto
+# Estrutura das pastas e arquivos
 
 - database/
   - 20252/
