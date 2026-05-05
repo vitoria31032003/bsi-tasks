@@ -8,11 +8,13 @@ Toda a infraestrutura (PgAdmin e aplicação TypeScript) sob via Docker Compose.
 
 # Estrutura do projeto
 
-database/20252/tarefas/vitoria31032003/
-│
-├── docker-compose.yml
-├── odbc.ts
-├── orm.ts
-├── package.json
-├── package-lock.json
-└── tarefa-orm.md
+database/
+└── 20252/
+    └── tarefas/
+        └── vitoria31032003/
+            ├── docker-compose.yml
+            ├── odbc.ts
+            ├── orm.ts
+            ├── package.json
+            ├── package-lock.json
+            └── tarefa-orm.md
