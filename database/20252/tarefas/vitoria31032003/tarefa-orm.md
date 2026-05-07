@@ -7,7 +7,7 @@ Atividade de acesso a banco de dados em **TypeScript**, usando três métodos co
 Toda a infraestrutura (PgAdmin e aplicação TypeScript) sob via Docker Compose.
 
 # Estrutura das pastas e arquivos
-
+```
 - database/
   - 20252/
     - tarefas/
@@ -18,3 +18,4 @@ Toda a infraestrutura (PgAdmin e aplicação TypeScript) sob via Docker Compose.
         - package.json
         - package-lock.json
         - tarefa-orm.md
+```
