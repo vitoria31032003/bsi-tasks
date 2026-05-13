@@ -34,4 +34,6 @@ Dependências do projeto: (https://github.com/vitoria31032003/bsi-tasks/blob/tar
 
 Em TypeScripy, o método clássico para usar ODBC é importado a biblioteca **odbc**, que implementa as operações básicas do banco. O fluxo é sempre o mesmo de execução: importa a biblioteca, abrir a conexão com banco, driver conecta no banco PosgreSQL, executa comandos, exbie através no console e fecha a conexão. Tudo isso feito em SQL.
 
-**TypeORM:** 
+**TypeORM** É um ORM que permitir aos desenvolvedores trabalhem utizando bancos de dados relacionais tendo uma abordagem orientada a objetos, o TypeORM foi escrito em TypeScripy e projetado para ser usado com Node.js. Ele suporta os principais bancos de dados, incluindo MySQL, PostgreSQL, MariaDB, SQLite, e até mesmo Microsoft SQL Server. 
+
+Com TypeORM podemos definir entidades e relacionamentos diretamente no código em TypeScript, possibilitando uma integração perfeita entre a lógica da aplicação e o banco de dados. Também oferece suporte a migrações de banco de dados, permitindo que mantenha o esquema do banco de dados sincronizado com o código de aplicação.
