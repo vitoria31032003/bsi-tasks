@@ -1,6 +1,6 @@
 # Tarefa 02 - Conexão Banco de Dados com ODBC e ORM
 
-Atividade de acesso a banco de dados em **TypeScript**, usando três métodos contra o mesmo banco PosgreSQL:
+Atividade de acesso a banco de dados em **TypeScript**, usando dois métodos contra o mesmo banco PosgreSQL:
 1. Acesso por **driver direto** (biblioteca pg).
 2. Acesso via código orientado a objetos.
 
